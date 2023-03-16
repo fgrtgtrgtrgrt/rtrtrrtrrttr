@@ -1,5 +1,3 @@
-(function() {
-    'use strict';
 
     function isNumber(x) {
         return !isNaN(parseFloat(x)) && isFinite(x);
